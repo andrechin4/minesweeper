@@ -1,0 +1,165 @@
+<html>
+<head>
+<title>MineSweeper</title>
+</head>
+<center>
+<h1>MineSweeper</h1>
+<table border = "10">
+<tr>
+<td><img name="box1" id="" onClick="" height="25" width="25"></td>
+<td><img name="box2" id="" onClick="" height="25" width="25"></td>
+<td><img name="box3" id="" onClick="" height="25" width="25"></td>
+<td><img name="box4" id="" onClick="" height="25" width="25"></td>
+<td><img name="box5" id="" onClick="" height="25" width="25"></td>
+<td><img name="box6" id="" onClick="" height="25" width="25"></td>
+<td><img name="box7" id="" onClick="" height="25" width="25"></td>
+<td><img name="box8" id="" onClick="" height="25" width="25"></td>
+<td><img name="box9" id="" onClick="" height="25" width="25"></td>
+<td><img name="box10" id="" onClick="" height="25" width="25"></td>
+</tr>
+<tr>
+<td><img name="box11" id="" onClick="" height="25" width="25"></td>
+<td><img name="box12" id="" onClick="" height="25" width="25"></td>
+<td><img name="box13" id="" onClick="" height="25" width="25"></td>
+<td><img name="box14" id="" onClick="" height="25" width="25"></td>
+<td><img name="box15" id="" onClick="" height="25" width="25"></td>
+<td><img name="box16" id="" onClick="" height="25" width="25"></td>
+<td><img name="box17" id="" onClick="" height="25" width="25"></td>
+<td><img name="box18" id="" onClick="" height="25" width="25"></td>
+<td><img name="box19" id="" onClick="" height="25" width="25"></td>
+<td><img name="box20" id="" onClick="" height="25" width="25"></td>
+</tr>
+<tr>
+<td><img name="box21" id="" onClick="" height="25" width="25"></td>
+<td><img name="box22" id="" onClick="" height="25" width="25"></td>
+<td><img name="box23" id="" onClick="" height="25" width="25"></td>
+<td><img name="box24" id="" onClick="" height="25" width="25"></td>
+<td><img name="box25" id="" onClick="" height="25" width="25"></td>
+<td><img name="box26" id="" onClick="" height="25" width="25"></td>
+<td><img name="box27" id="" onClick="" height="25" width="25"></td>
+<td><img name="box28" id="" onClick="" height="25" width="25"></td>
+<td><img name="box29" id="" onClick="" height="25" width="25"></td>
+<td><img name="box30" id="" onClick="" height="25" width="25"></td>
+</tr>
+<tr>
+<td><img name="box31" id="" onClick="" height="25" width="25"></td>
+<td><img name="box32" id="" onClick="" height="25" width="25"></td>
+<td><img name="box33" id="" onClick="" height="25" width="25"></td>
+<td><img name="box34" id="" onClick="" height="25" width="25"></td>
+<td><img name="box35" id="" onClick="" height="25" width="25"></td>
+<td><img name="box36" id="" onClick="" height="25" width="25"></td>
+<td><img name="box37" id="" onClick="" height="25" width="25"></td>
+<td><img name="box38" id="" onClick="" height="25" width="25"></td>
+<td><img name="box39" id="" onClick="" height="25" width="25"></td>
+<td><img name="box40" id="" onClick="" height="25" width="25"></td>
+</tr>
+<tr>
+<td><img name="box41" id="" onClick="" height="25" width="25"></td>
+<td><img name="box42" id="" onClick="" height="25" width="25"></td>
+<td><img name="box43" id="" onClick="" height="25" width="25"></td>
+<td><img name="box44" id="" onClick="" height="25" width="25"></td>
+<td><img name="box45" id="" onClick="" height="25" width="25"></td>
+<td><img name="box46" id="" onClick="" height="25" width="25"></td>
+<td><img name="box47" id="" onClick="" height="25" width="25"></td>
+<td><img name="box48" id="" onClick="" height="25" width="25"></td>
+<td><img name="box49" id="" onClick="" height="25" width="25"></td>
+<td><img name="box50" id="" onClick="" height="25" width="25"></td>
+</tr>
+<tr>
+<td><img name="box51" id="" onClick="" height="25" width="25"></td>
+<td><img name="box52" id="" onClick="" height="25" width="25"></td>
+<td><img name="box53" id="" onClick="" height="25" width="25"></td>
+<td><img name="box54" id="" onClick="" height="25" width="25"></td>
+<td><img name="box55" id="" onClick="" height="25" width="25"></td>
+<td><img name="box56" id="" onClick="" height="25" width="25"></td>
+<td><img name="box57" id="" onClick="" height="25" width="25"></td>
+<td><img name="box58" id="" onClick="" height="25" width="25"></td>
+<td><img name="box59" id="" onClick="" height="25" width="25"></td>
+<td><img name="box60" id="" onClick="" height="25" width="25"></td>
+</tr>
+<tr>
+<td><img name="box61" id="" onClick="" height="25" width="25"></td>
+<td><img name="box62" id="" onClick="" height="25" width="25"></td>
+<td><img name="box63" id="" onClick="" height="25" width="25"></td>
+<td><img name="box64" id="" onClick="" height="25" width="25"></td>
+<td><img name="box65" id="" onClick="" height="25" width="25"></td>
+<td><img name="box66" id="" onClick="" height="25" width="25"></td>
+<td><img name="box67" id="" onClick="" height="25" width="25"></td>
+<td><img name="box68" id="" onClick="" height="25" width="25"></td>
+<td><img name="box69" id="" onClick="" height="25" width="25"></td>
+<td><img name="box70" id="" onClick="" height="25" width="25"></td>
+</tr>
+<tr>
+<td><img name="box71" id="" onClick="" height="25" width="25"></td>
+<td><img name="box72" id="" onClick="" height="25" width="25"></td>
+<td><img name="box73" id="" onClick="" height="25" width="25"></td>
+<td><img name="box74" id="" onClick="" height="25" width="25"></td>
+<td><img name="box75" id="" onClick="" height="25" width="25"></td>
+<td><img name="box76" id="" onClick="" height="25" width="25"></td>
+<td><img name="box77" id="" onClick="" height="25" width="25"></td>
+<td><img name="box78" id="" onClick="" height="25" width="25"></td>
+<td><img name="box79" id="" onClick="" height="25" width="25"></td>
+<td><img name="box80" id="" onClick="" height="25" width="25"></td>
+</tr>
+<tr>
+<td><img name="box81" id="" onClick="" height="25" width="25"></td>
+<td><img name="box82" id="" onClick="" height="25" width="25"></td>
+<td><img name="box83" id="" onClick="" height="25" width="25"></td>
+<td><img name="box84" id="" onClick="" height="25" width="25"></td>
+<td><img name="box85" id="" onClick="" height="25" width="25"></td>
+<td><img name="box86" id="" onClick="" height="25" width="25"></td>
+<td><img name="box87" id="" onClick="" height="25" width="25"></td>
+<td><img name="box88" id="" onClick="" height="25" width="25"></td>
+<td><img name="box89" id="" onClick="" height="25" width="25"></td>
+<td><img name="box90" id="" onClick="" height="25" width="25"></td>
+</tr>
+<tr>
+<td><img name="box91" id="" onClick="" height="25" width="25"></td>
+<td><img name="box92" id="" onClick="" height="25" width="25"></td>
+<td><img name="box93" id="" onClick="" height="25" width="25"></td>
+<td><img name="box94" id="" onClick="" height="25" width="25"></td>
+<td><img name="box95" id="" onClick="" height="25" width="25"></td>
+<td><img name="box96" id="" onClick="" height="25" width="25"></td>
+<td><img name="box97" id="" onClick="" height="25" width="25"></td>
+<td><img name="box98" id="" onClick="" height="25" width="25"></td>
+<td><img name="box99" id="" onClick="" height="25" width="25"></td>
+<td><img name="box100" id="" onClick="" height="25" width="25"></td>
+</tr>
+</table>
+<body>
+</center>
+</body>
+<script>
+// To add mines in random spots, all the table things false, and than the random part makes a random thing in the buttons true. So the'll have a bomb. If and else statements on in on click function.
+
+
+
+function getRandomInt(max,min){
+
+	return Math.floor(Math.random() * max - min)) + min;
+}
+
+random = getRandomInt(100,1);
+
+
+
+function buttonEmpty(){
+
+}
+
+function buttonHint(){
+
+}
+
+function buttonBomb(){
+
+}
+
+function buttonClick(){
+
+
+}
+
+
+</script>
+</html>
